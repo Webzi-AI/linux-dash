@@ -112,3 +112,4 @@ For general help, please use the [Gitter chat room](https://gitter.im/afaqurk/li
 **It is strongly recommended** that all linux-dash installations be protected via a security measure of your choice.
 
 Linux Dash does not provide any security or authentication features.
+<!-- partix verify check -->
